@@ -1,4 +1,5 @@
 # timetable-maker
+
 ## Project setup
 ```
 npm install
